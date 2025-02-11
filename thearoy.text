@@ -1,0 +1,22 @@
+Problem:
+Write a program that takes the user's age and prints the ticket price based on the following rules:
+
+60 years and above → $8
+18 to 59 years → $15
+5 to 17 years → $10
+Below 5 years → Free
+
+let Age;
+let Age = ;
+if(Age>=60){
+    console.log("Tricket price is $8");
+}
+else if(Age>=18){
+    console.log("Tricket price is $15");
+}
+else if(Age>=5){
+    console.log("Tricket price is $10");
+}
+else{
+    console.log("Tricket Price is Free");
+}
